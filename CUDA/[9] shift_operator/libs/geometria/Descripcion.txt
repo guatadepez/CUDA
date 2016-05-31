@@ -1,0 +1,17 @@
+La numeracion de las carpetas representa en numero de nodos 
+de la geometria compuesta por elmentos finitos triangulares 
+de tres nodos
+
+[Nodos]  [Elementos]
+
+ 289        512 
+ 1089       2048   
+ 4225       8192
+ 16441      32768
+ 66049      131072   
+ 263169     524288
+
+El dominio esta definido entre:
+
+x = [-4 4]
+y = [-4 4]

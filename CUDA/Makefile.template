@@ -1,0 +1,3 @@
+all:
+	nvcc <INPUT_FILENAME>.cu -o <EXECUTABLE_FILENAME>.out --compiler-options -Wall
+clean: rm -rf <EXECUTABLE_FILENAME>.out
